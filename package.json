@@ -1,5 +1,5 @@
 {
-  "name": "TaskPro",
+  "name": "taskpro",
   "private": true,
   "scripts": {
     "build": "turbo run build",
